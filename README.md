@@ -1,4 +1,4 @@
-# 👨‍💻 Zullqernain Haider | Professional Web Portfolio
+#  ZULLQERNAINHAIDER | Professional Web Portfolio
 
 [![Live Deployment](https://img.shields.io/badge/Status-Live_Deployment-success?style=for-the-badge&logo=github)](https://zullqernainhaider.github.io/Professional_Portfolio/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=for-the-badge&logo=github)](#)
