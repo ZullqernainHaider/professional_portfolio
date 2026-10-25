@@ -816,6 +816,7 @@ footer{border-top:1px solid var(--rule);padding:28px 5%;display:flex;justify-con
     return getComputedStyle(document.documentElement).getPropertyValue('--brand').trim() || '#0ea5e9';
   }
 
+  
   function resize() {
     state.dpr = Math.max(1, window.devicePixelRatio || 1);
     state.w = Math.floor(window.innerWidth * state.dpr);
